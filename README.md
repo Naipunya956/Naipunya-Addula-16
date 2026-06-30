@@ -6,3 +6,4 @@ Trying to learn github
 <br>
 added a collaborator
 added a new issue and closed it
+added a new pull request and merged it
