@@ -5,3 +5,4 @@ Author : Naipunya Addula (KITW)
 Trying to learn github
 <br>
 added a collaborator
+added a new issue and closed it
